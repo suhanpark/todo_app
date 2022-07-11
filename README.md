@@ -15,7 +15,7 @@
 <h2>Summary</h2>
     <div align="left">
         
-        Language: Javascript
+        Language & Framework: Javascript, React.js
     
         Deployment & DB: Firebase Firestore
 
